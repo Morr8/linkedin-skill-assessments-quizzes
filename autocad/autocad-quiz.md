@@ -557,7 +557,7 @@
 - [ ] side polygon
 - [ ] polyline polygon
 - [ ] line polygon
-- [ ] edge polygon
+- [x] edge polygon
 
 #### Q76. When using blocks in a drawing, a selected block displays only one grip: the insertion point. How would you get a block to display all of its associated grips?
 
